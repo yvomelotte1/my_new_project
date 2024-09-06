@@ -4,13 +4,9 @@ Copy the template, paste it to your GitHub README and edit! -->
 # Project Title
 Final project for the Building AI course
 ## Summary
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+An AI Chess Puzzle Composer would generate original chess problems and puzzles of varying difficulty levels for players to solve. The AI should be able to evaluate the quality and difficulty of generated puzzles, ensuring that they are solvable and have a unique solution.
 ## Background
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+The project would aim to help beginner chess players to learn the fundamentals of the game and to help them improve their tactial and spacial awareness in chess. Chess is currently one of the fastest-growing games in the world, and so an AI chess puzzle composer would be a very useful tool for beginner chess players in the journey to improvement. This project motivates me because I am currently working to improve chess elo rating and I believe that such a tool would help those learning to play chess improve at a much faster rate than was possible before.
 ## How is it used?
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 Images will make your README look nice!
