@@ -1,7 +1,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
-# Project Title
+# Puzzl.ai = An AI Chess Puzzle Composer?
 Final project for the Building AI course
 ## Summary
 An AI Chess Puzzle Composer would generate original chess problems and puzzles of varying difficulty levels for players to solve. The AI should be able to evaluate the quality and difficulty of generated puzzles, ensuring that they are solvable and have a unique solution.
